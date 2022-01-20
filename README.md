@@ -1,2 +1,2 @@
-# TemplateV1
-V1 
+# Template v1
+REST API using Postman to GET/POST. 
